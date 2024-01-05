@@ -6,8 +6,16 @@
 |                             Model Name & checkpoint                                         |         Accuracy (%)      |
 |-------------------------------------------------------------------------------------------- | ------------------------- |
 |[Binary Classifier] To be updated                                                            |            52.53          |
-|[SimCLR]                                                                                     |            71.30          |
-|[SupCLR]                                                                                     |            69.16          |
+|[SimCLR](https://drive.google.com/file/d/1CE4gh3Ebs-W1sEZy0Z6O_0zSaePY88iM/view?usp=sharing) |            71.30          |
+|[SupCLR](https://drive.google.com/file/d/1Kj2OtCNBCCQpdMqPEc2tIQrRrv_PdfVk/view?usp=sharing) |            69.16          |
+
+
+|                                             Dataset - Autism Dataset                                                    |
+|                             Model Name & checkpoint                                         |         Accuracy (%)      |
+|-------------------------------------------------------------------------------------------- | ------------------------- |
+|[Binary Classifier] To be updated                                                            |            98.67          |
+|[SimCLR](https://drive.google.com/file/d/16262ooHgNqqksDVRGH2l1BGhgoVcckYU/view?usp=sharing) |            99.87          |
+|[SupCLR](https://drive.google.com/file/d/1Pg6U72Vjnj6XHhG-4OhPzGk670_H8HVq/view?usp=sharing) |            98.14          |
 
 ## Cite
 To read the paper [visit](https://rdcu.be/dteko)
