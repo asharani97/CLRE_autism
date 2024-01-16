@@ -107,9 +107,8 @@ def train(train_loader, model, criterion, optimizer, epoch, opt):
         features1 = model(video[0])
         features2 = model(video[1])
         features= torch.cat([features1,features2], dim=0)
-        hard_pair = miner(f1, labels)
         if opt.method == 'SupCon':
-            loss = criterion(features, labels, hard_pair)
+            loss = criterion(features, labels)
         elif opt.method == 'BinClassifier':
             loss = criterion(features)
         else:
