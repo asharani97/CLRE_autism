@@ -2,20 +2,20 @@
 
 <!--Link to pretrained models : We have released model checkpoints for all the compared method here. -->
 
-|                                             Dataset - Hand Gesture Dataset                                              |
-|                             Model Name & checkpoint                                         |         Accuracy (%)      |
-|-------------------------------------------------------------------------------------------- | ------------------------- |
-|[Binary Classifier] To be updated                                                            |            52.53          |
-|[SimCLR](https://drive.google.com/file/d/1CE4gh3Ebs-W1sEZy0Z6O_0zSaePY88iM/view?usp=sharing) |            71.30          |
-|[SupCLR](https://drive.google.com/file/d/1Kj2OtCNBCCQpdMqPEc2tIQrRrv_PdfVk/view?usp=sharing) |            69.16          |
+|                                             Dataset - Hand Gesture Dataset                                                         |
+|                             Model Name & checkpoint                                                    |         Accuracy (%)      |
+|--------------------------------------------------------------------------------------------            | ------------------------- |
+|[Binary Classifier](https://drive.google.com/file/d/1-Rr-NtAQb2D7_C69CbAceeInsCZJ59Qb/view?usp=sharing) |            52.53          |
+|[SimCLR](https://drive.google.com/file/d/1CE4gh3Ebs-W1sEZy0Z6O_0zSaePY88iM/view?usp=sharing)            |            71.30          |
+|[SupCLR](https://drive.google.com/file/d/1Kj2OtCNBCCQpdMqPEc2tIQrRrv_PdfVk/view?usp=sharing)            |            69.16          |
 
 
-|                                             Dataset - Autism Dataset                                                    |
-|                             Model Name & checkpoint                                         |         Accuracy (%)      |
-|-------------------------------------------------------------------------------------------- | ------------------------- |
-|[Binary Classifier] To be updated                                                            |            98.67          |
-|[SimCLR](https://drive.google.com/file/d/16262ooHgNqqksDVRGH2l1BGhgoVcckYU/view?usp=sharing) |            99.87          |
-|[SupCLR](https://drive.google.com/file/d/1Pg6U72Vjnj6XHhG-4OhPzGk670_H8HVq/view?usp=sharing) |            98.14          |
+|                                             Dataset - Autism Dataset                                                               |
+|                             Model Name & checkpoint                                                    |         Accuracy (%)      |
+|--------------------------------------------------------------------------------------------            | ------------------------- |
+|[Binary Classifier](https://drive.google.com/file/d/1LrN53f_Pv-r9E5rX3T3BE124E8iA3H4P/view?usp=sharing) |            98.67          |
+|[SimCLR](https://drive.google.com/file/d/16262ooHgNqqksDVRGH2l1BGhgoVcckYU/view?usp=sharing)            |            99.87          |
+|[SupCLR](https://drive.google.com/file/d/1Pg6U72Vjnj6XHhG-4OhPzGk670_H8HVq/view?usp=sharing)            |            98.14          |
 
 ## Cite
 To read the paper [visit](https://rdcu.be/dteko)
